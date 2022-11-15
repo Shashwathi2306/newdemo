@@ -5,3 +5,11 @@ welcome to git class........!!!
 {
 editing chnages in ghub repository
 }
+
+{
+now doing changes in local and updating it in ghub repo
+}
+
+{
+editing after revert from staging area-now coming to editing directory
+}
